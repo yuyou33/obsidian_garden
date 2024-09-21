@@ -23,3 +23,4 @@ eg:`foo=bar`
 eg: `echo "value is $foo"`
 	`value is bar`
 #####  单引号`’` 直接输出 
+1
